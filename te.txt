@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 dadasdada 666
-=======
 dadasdada 666
->>>>>>> master
 dadasdada
 ddajsda`yy`adasdada
 ddajsda`yy`adasdada
