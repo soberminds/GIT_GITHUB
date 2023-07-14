@@ -4,5 +4,6 @@ public class Test {
         System.out.println("hot-fix 3");
         System.out.println("master 3");
         System.out.println("master 4 push");
+        System.out.println("master 4 push update");
     }
 }
